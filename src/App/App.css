@@ -1,0 +1,19 @@
+.app {
+  text-align: center;
+  margin: 20px;
+}
+.back-card {
+  margin: 30px auto;
+  border: 1px solid black;
+  background-image: linear-gradient(red, black, red);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  width: 120px;
+  height: 200px;
+}
+
+button {
+  padding: 5px;
+  font-size: 14px;
+  margin: 5px;
+  background-color: beige;
+}
